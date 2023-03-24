@@ -11,3 +11,4 @@ Eduardo Peris is my partner on this project, our codes were written collaborativ
 "sql_table_screenshots" shows the screenshots of each table being loaded in and running correctly with the head of each table and its data
 -
 "Resources" houses the original four excel files and the four newly transformed csv files
+-
